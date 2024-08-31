@@ -1,7 +1,7 @@
 # Temperature Converter Website
 
 
-<h1 align="center">Hi I am Ayush Shyam Lingayat</h1>
+<h1 align="center">Hi I am Amulya Yasa</h1>
 <h3 align="center">I Am a Front End Developer from India</h3>
 
 ## Website Preview
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Designing and Development**
 
-- 📫 How to reach me **lingayatayush3@gmail.com**
+- 📫 How to reach me **amuashu1827@gmail.com**
 
 - ⚡ Fun fact **Coding is never ending process**
 
